@@ -1,4 +1,6 @@
 # snmp
 ## Zabbix
 ### D-Link
-### [OpenVPN] (OpenVPN/README.md)
+### [OpenVPN] (snmp/tree/master/Zabbix/OpenVPN)
+
+
