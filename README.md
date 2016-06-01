@@ -1,6 +1,5 @@
 # snmp
 ## Zabbix
 ### D-Link
-### [OpenVPN] (snmp/tree/master/Zabbix/OpenVPN)
-
+### [OpenVPN] (snmp/blob/master/snmp/tree/master/Zabbix/OpenVPN)
 
